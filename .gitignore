@@ -146,7 +146,7 @@ fabric.properties
 
 .svelte-kit/
 package
-
+.idea/
 # End of https://www.toptal.com/developers/gitignore/api/goland,go,svelte
 .claude/
 CLAUDE.md
