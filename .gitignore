@@ -10,6 +10,7 @@ frontend/dist
 #
 # Binaries for programs and plugins
 *.exe
+!vendor/github.com/wailsapp/wails/v2/internal/webview2runtime/MicrosoftEdgeWebview2Setup.exe
 *.exe~
 *.dll
 *.so
